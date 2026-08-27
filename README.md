@@ -1,6 +1,6 @@
 # Revelis - AI-Powered Tourism Mobile App
 
-Revelis is a React Native Expo application designed for smart heritage tourism. When travellers physically explore heritage spots with earphones connected, Revelis tracks their location in real time, registers native background geofences around iconic monuments, fetches conversational AI local guide stories, and automatically narrates them hands-free.
+Revelis is a  Expo application designed for smart heritage tourism. When travellers physically explore heritage spots with earphones connected, Revelis tracks their location in real time, registers native background geofences around iconic monuments, fetches conversational AI local guide stories, and automatically narrates them hands-free.
 
 ---
 
