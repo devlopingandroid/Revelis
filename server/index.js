@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 /**
- * Health check endpoint
+ * Health check endpoints
  */
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', service: 'Revelis AI Narration Engine', timestamp: new Date().toISOString() });
